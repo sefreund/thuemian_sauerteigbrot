@@ -48,3 +48,15 @@ Wasser mischen. Ansonsten:
   ruhen lassen.
 * Das Brot dem Ofen entnehmen und auf einem Rost auskühlen lassen.
 
+
+# Was schief gehen kann
+
+## Mein Brot macht plong!
+
+Nimm mehr Wasser
+
+## Mein brot schmeckt sauer
+
+Gehzeiten einhalten und nicht deutlich länger gehen lassen
+
+
