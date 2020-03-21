@@ -41,7 +41,7 @@ Wasser mischen. Ansonsten:
 * Bei 200°C mit Ober- und Unterhitze 60 Minuten ausbacken, bis das Brot hohl
   klingt oder 40 Minuten ausbacken und weitere 40 Minuten im geschlossenen Ofen
   ruhen lassen. *TIPP*: Im Schwaden backen: bereits beim Vorheizen des Ofens ein 
-  Schälchen Wasser in den Ofen stellen und während des Backvorgangs im Ofen stehen l
-  assen. Das Brot geht dann besser auf.
+  Schälchen Wasser in den Ofen stellen und während des Backvorgangs im Ofen stehen
+  lassen. Das Brot geht dann besser auf.
 * Das Brot dem Ofen entnehmen und auf einem Rost auskühlen lassen.
 
