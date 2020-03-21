@@ -55,7 +55,7 @@ Wasser mischen. Ansonsten:
 
 Nimm mehr Wasser
 
-## Mein brot schmeckt sauer
+## Mein Brot schmeckt sauer
 
 Gehzeiten einhalten und nicht deutlich länger gehen lassen
 
