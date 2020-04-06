@@ -1,10 +1,12 @@
 # Bedienungsanleitung Thümian-Sauerteigbrot
 
-## Vorteig
+## Anstellgut
 
 Nach 14 Tagen muss der Teig gefüttert werden. Wenn kein
 Brot gebacken werden soll, den Teig teilen und jeweils mit 40g Mehl und 40ml
-Wasser mischen. Ansonsten:
+Wasser mischen.
+
+## Vorteig
 
 ### Zutaten
 * 150g Vorteig
@@ -61,4 +63,6 @@ Nimm mehr Wasser
 
 Gehzeiten einhalten und nicht deutlich länger gehen lassen
 
+## Mein Brot geht wenig auf
 
+Gehzeiten einhalten, nach dem Auskippen aus dem Gärkorb möglichst wenig formen. 
