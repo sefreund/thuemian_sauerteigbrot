@@ -9,14 +9,14 @@ Wasser mischen.
 ## Vorteig
 
 ### Zutaten
-* 150g Vorteig
+* 150g Anstellgut
 * 250g Roggenmehl
 * ca 275-300ml Wasser
 
 ### Zubereitung
 
 * Die Zutaten vermischen und über Nacht ruhen lassen.
-* 150g Teig abnehmen. Diese können vor der nächsten Verwendung
+* Am nächsten Tag 150g Teig abnehmen. Diese können vor der nächsten Verwendung
   zwischen 1/2 Tag bei Zimmertemperatur oder bis zu 14 Tage im Kühlschrank
   altern.
 * Die restlichen 500g der Masse zu Brot verarbeiten.
@@ -30,9 +30,10 @@ Wasser mischen.
 * 12g Salz
 
 ### Optionale Zutaten:
+Zutaten, die Wasser aufnehmen, können über Nacht in Wasserbad feuchtigkeit ziehen. Dann muss man nicht extra Wasser zum Teig hinzufügen und der Teig wird nicht noch klebriger)
 
 * 1 EL Kümmel
-* 150g Chia Samen + 50ml Wassern
+* 150g Chia Samen + 50ml Wasser
 * 150g Hirse + 50ml Wasser
 
 ### Zubereitung
@@ -66,3 +67,8 @@ Gehzeiten einhalten und nicht deutlich länger gehen lassen
 ## Mein Brot geht wenig auf
 
 Gehzeiten einhalten, nach dem Auskippen aus dem Gärkorb möglichst wenig formen. 
+
+## Mein Brot reißt an der Seite auf
+
+Auf der Oberseite tiefere Schnitte mit dem Messer einbringen.
+
